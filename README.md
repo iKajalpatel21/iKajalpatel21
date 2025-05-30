@@ -106,7 +106,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikajalpatel21&show_icons=true&locale=en&layout=compact" alt="ikajalpatel21" />
 </p>
----
+
 
 <h2 align="center">Connect with me 🤝</h2>
 <p align="center">
