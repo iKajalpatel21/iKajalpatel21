@@ -106,14 +106,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikajalpatel21&show_icons=true&locale=en&layout=compact" alt="ikajalpatel21" />
 </p>
-
----
-
-### ✍️ Latest Projects:
-- 🔹 **NeuThera** – AI-Driven Drug Discovery using LLMs + GraphDB
-- 🔹 **Spike Sorting System** – Django backend + secure worker daemon for Neuroscience lab
-- 🔹 **DAYFORCE RSA Integration** – Encrypted data pipeline using API and RSA encryption
-
 ---
 
 <h2 align="center">Connect with me 🤝</h2>
