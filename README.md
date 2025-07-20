@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kajal Patel</h1>
-<h3 align="center">A passionate Data Engineer and aspiring AI/ML Developer</h3>
+<h3 align="center">A passionate Full Stack & Data Engineer | Scalable Systems | Cloud-Native | AI/ML Enthusiast
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikajalpatel21&label=Profile%20views&color=0e75b6&style=flat" alt="ikajalpatel21" /> </p>
 
@@ -26,6 +28,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+### Backend & System Design  
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-00C7B7?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-0099cc?style=for-the-badge)
+![Message Queues](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-blueviolet?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge)
 
 ---
 
