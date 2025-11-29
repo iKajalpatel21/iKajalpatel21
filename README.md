@@ -13,7 +13,7 @@
 
 - 👩‍💻 All of my projects are available at [https://github.com/ikajalpatel21](https://github.com/ikajalpatel21)
 
-- 📝 I regularly write about tech and productivity on [LinkedIn](https://www.linkedin.com/in/kajal-patel-cs/)
+- 📝 I regularly write about tech and productivity on [LinkedIn](https://www.linkedin.com/in/kajal-patel-cs/) and [Medium]([https://www.linkedin.com/in/kajal-patel-cs/](https://medium.com/@k.patel1))
 
 - ⚡ Fun fact **I love breaking down complex systems into simple workflows**
 
